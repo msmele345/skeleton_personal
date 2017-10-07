@@ -31,7 +31,7 @@ nav li{
 }
 
 .w-70 {
-  width: 70%;
+  width: 40%;
 }
 
 .mar-b-2 {
@@ -51,16 +51,18 @@ nav li{
 }
 
 .pad-2 {
-  padding: 2em;
+  padding: 15px;
 }
 
 .round-1 {
   border-radius: 1em;
-  background-color: #6ec7a5;
+  background-color: silver;
 }
 
 .text-c {
   text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
 }
 
 .errors {
@@ -81,4 +83,8 @@ nav li{
 
 .no-style-button input:hover {
   text-decoration: underline;
+}
+
+.main-header {
+font-family: 'Playfair Display', serif;
 }
