@@ -86,5 +86,65 @@ nav li{
 }
 
 .main-header {
-font-family: 'Playfair Display', serif;
+ font-family: 'Playfair Display', serif;
+ font-size: 2em;
 }
+
+
+
+/*a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    display: inline;
+    text-decoration: none;
+    color: red;
+
+}
+
+
+.article-box ul{
+  flex-direction: row;
+  justify-content: center;
+    padding: 0;
+  margin: 0;
+  list-style: none;
+  border: 1px solid silver;
+  -ms-box-orient: horizontal;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -moz-flex;
+  display: -webkit-flex;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.article-box li {
+  background: #EBFC67;
+  padding: 25px;
+  width: 300px;
+  margin: 30px;
+}
+
+
+.article-box li a {
+  font-family: 'Abril Fatface', cursive;
+  font-size: 2em;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
+
+.article-box li a:link {
+  color: #b74e28;
+}
+
+.article-box li a:visited {
+  color: #600b2a;
+
+}
+
+.article-box li a:hover {
+  text-decoration: underline;
+}*/
