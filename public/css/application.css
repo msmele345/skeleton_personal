@@ -148,3 +148,55 @@ nav li{
 .article-box li a:hover {
   text-decoration: underline;
 }*/
+
+
+
+/*Graident styled form template:
+
+form:focus, input:focus {
+  border: 2px solid #900;
+}
+
+form {
+  background: -webkit-linear-gradient(top, #7d7e7d 0%,#0e0e0e 100%);
+  margin: auto;
+  position: relative;
+  width: 250px;
+  height: 150px;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 24px;
+  font-weight: bold;
+  color: silver;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px solid #999;
+  border: inset 1px solid #333;
+}
+
+input {
+  width: 175px;
+  display: block;
+  border: 1px solid #999;
+  height: 25px;
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+button {
+  width: 100px;
+  position: absolute;
+  right: 90px;
+  bottom: 20px;
+  background: gray;
+  color: #fff;
+  font-family: Tahoma, Geneva, sans-serif;
+  height: 30px;
+  border-radius: 15px;
+  border: 1p solid #999;
+}
+*/
