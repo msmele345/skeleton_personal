@@ -1,6 +1,7 @@
 body {
-  background-color: rgb(156, 215, 270);
+ background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
 }
+
 header {
   display: block;
 }
