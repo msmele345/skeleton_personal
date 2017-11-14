@@ -5,3 +5,11 @@ $(document).ready(function() {
 
   // See: http://docs.jquery.com/Tutorials:Introducing_$(document).ready()
 });
+
+
+
+//For appending data to divs using Ajax calls
+var appendData = function(response){
+  $("#muppetResults").children().remove();
+  $("#muppetResults").append(response);
+}
