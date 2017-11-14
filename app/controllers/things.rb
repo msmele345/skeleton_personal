@@ -22,20 +22,20 @@ end
 # edit
 get '/things/:id/edit' do
   authenticate!
-  authorized!
+  authorize!
   erb :"/things/:id/edit"
 end
 
 put '/things/:id' do
   authenticate!
-  authorized!
+  authorize!
   redirect "/things/#{params[:id]}"
 end
 
 # delete 
 delete '/things/:id' do
   authenticate!
-  authorized!
+  authorize!
   redirect '/things'
 end
 
